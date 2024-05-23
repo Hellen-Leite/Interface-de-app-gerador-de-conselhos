@@ -1,0 +1,12 @@
+@media(min-width: 768px){
+
+.container .mensageiro{
+    padding-inline: 50px;
+    width: 386px;
+
+}
+.mensageiro p{
+    font-size: 23px;
+    padding: 26px;
+}
+}
